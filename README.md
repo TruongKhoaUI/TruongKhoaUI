@@ -3,4 +3,4 @@
 - I like coding my Discord Bot (on Replit)
 
 # Connect me 🫂
-- [Replt](https://repl.it/@truongkhoaui) - [YouTube](https://youtube.com/@TruongKhoaUI) - [Discord](https://discord.com/users/1021023635814760458)
+- [Replit](https://repl.it/@truongkhoaui) - [YouTube](https://youtube.com/@TruongKhoaUI) - [Discord](https://discord.com/users/1021023635814760458)
