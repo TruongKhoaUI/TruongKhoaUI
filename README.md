@@ -4,6 +4,6 @@
 - I just a student
 
 # Connect me 🫂
-- Discord: @truongkhoa
+- Discord: truongkhoa#2221
 - Replit: @truongkhoaui
 - GitHub: @TruongKhoaUI
