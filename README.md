@@ -4,4 +4,6 @@
 - I just a student
 
 # Connect me 🫂
-- [Replit](https://repl.it/@truongkhoaui) - [YouTube](https://youtube.com/@TruongKhoaUI) - [Discord](https://discord.com/users/1021023635814760458)
+- Discord: @truongkhoa
+- Replit: @truongkhoaui
+- GitHub: @TruongKhoaUI
