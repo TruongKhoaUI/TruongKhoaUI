@@ -5,5 +5,5 @@
 
 # Connect me 🫂
 - Discord: truongkhoa#2221
-- Replit: @truongkhoaui
+- Replit: @truongkhoawastaken
 - GitHub: @TruongKhoaUI
