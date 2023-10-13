@@ -7,3 +7,5 @@
 - Discord: truongkhoa#2221
 - Replit: @truongkhoawastaken
 - GitHub: @TruongKhoaUI
+
+[![presence](https://lanyard.cnrad.dev/api/1021023635814760458)](https://discord.com/users/1021023635814760458)
